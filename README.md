@@ -1,4 +1,4 @@
-# Cuba SSE Proof of Concept
+# Sinatra SSE Proof of Concept
 
 ## Installation
 
