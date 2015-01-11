@@ -1,0 +1,5 @@
+{
+  "name": "Sinatra SSE PoC",
+  "description": "A Sinatra example Application using Server Sent Events via Puma",
+  "repository": "https://github.com/tbuehlmann/sinatra-sse-poc"
+}
